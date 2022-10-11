@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BasicTDD" />
+        <module name="GitPull" />
       </profile>
     </annotationProcessing>
   </component>
